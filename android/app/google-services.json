@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489781521930",
+    "project_id": "flutter-location-trackin-12d94",
+    "storage_bucket": "flutter-location-trackin-12d94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489781521930:android:05552e6dac91b50b5cf9f3",
+        "android_client_info": {
+          "package_name": "com.binoy.live_location_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489781521930-cu9vku6s3e19gi3ael4hjeo8nhs6frs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3_oo37WR7UfZENvYMwLHsBM1wuRDpxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489781521930-cu9vku6s3e19gi3ael4hjeo8nhs6frs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
